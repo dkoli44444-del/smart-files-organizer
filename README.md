@@ -4,8 +4,8 @@ A desktop app that sorts messy folders by file type, with preview and undo.
 
 Pick a folder, see exactly where every file will go, then organize it with one click. If you change your mind, undo restores everything.
 
-   ![Smart File Organizer screenshot](screenshot.png)
-
+   ![Smart File Organizer screenshot](Screenshot.png)
+   
 ## Features
 
 - **Preview first:** see every file and its destination before anything moves
